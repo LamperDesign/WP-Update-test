@@ -5,6 +5,7 @@
  * Description: Test of automatische GitHub updates werken.
  * Version: 1.2.0
  * Author: Lamper Design
+ * GitHub Plugin URI: LamperDesign/wp-update-test
  * GitHub Plugin URI: https://github.com/LamperDesign/wp-update-test
  */
 
